@@ -1,1 +1,35 @@
-This project is a menu-driven basic calculator built in Java using console input and output. It uses the Scanner class to take user input and provides a menu to perform four arithmetic operations: addition, subtraction, multiplication, and division. Each operation is implemented as a separate static method to keep the code organized and reusable. The program runs inside an infinite loop, continuously displaying the menu until the user chooses the exit option. For each operation, the user is prompted to enter two numbers, and then the respective method is called to perform the calculation and display the result. Special validation is added in the division option to prevent division by zero errors, ensuring the program does not crash unexpectedly. The use of a switch statement makes the program efficient and easy to understand. This calculator demonstrates the use of Java methods, loops, conditional statements, exception handling for errors like division by zero, and console-based interaction with the user.
+Menu-driven basic calculator built in Java using console input/output.
+
+Uses the Scanner class to take user input.
+
+Provides a menu for four arithmetic operations:
+
+Addition
+
+Subtraction
+
+Multiplication
+
+Division
+
+Each operation is implemented as a separate static method for better organization and reusability.
+
+Runs in an infinite loop, displaying the menu repeatedly until the user chooses to exit.
+
+Prompts the user to enter two numbers for each operation.
+
+Implements division validation to prevent division by zero errors.
+
+Uses a switch statement for efficient menu handling.
+
+Demonstrates:
+
+Java methods
+
+Loops (infinite loop for menu)
+
+Conditional statements (switch-case)
+
+Exception handling (division by zero prevention)
+
+Console-based interaction with the user.
